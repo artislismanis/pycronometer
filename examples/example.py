@@ -1,4 +1,3 @@
-from os import EX_TEMPFAIL
 import pycronometer
 
 email = 'YOUR_CRONOMETER_LOGIN_EMAIL'
