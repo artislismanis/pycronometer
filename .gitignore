@@ -11,6 +11,7 @@ dist
 build
 env
 htmlcov
+__pycache__
 
 # Editors
 .idea
